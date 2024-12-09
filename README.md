@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**pdiaz-commits/pdiaz-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 If you are here, it might be because you stumbled upon a link to my profile somewhere. Let me introduce myself briefly.
 Who am I?
 
@@ -18,4 +14,3 @@ Let’s connect!
 
 If you’re interested in collaborating or have any questions, drop me a message:
 📧 pj040dr@gmail.com
--->
