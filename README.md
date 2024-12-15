@@ -1,7 +1,9 @@
 Hi there, I'm Pablo Díaz 👋
 
 🚀 About Me
-I’m a Software Engineer with over 15 years of experience in IT, specializing in web development, CMS platforms (WordPress, Moodle), and frameworks like Zend 2. Recently, I’ve shifted my focus towards Data Science, Machine Learning, and Generative AI, aiming to create impactful solutions through innovative technologies.
+I’m a Software Engineer with over 15 years of experience in IT, specializing in web development,open Source PHP, CMS platforms (WordPress, Moodle) 
+
+Recently, I’ve shifted my focus towards Python , Data Science, Machine Learning, and Generative AI, aiming to create impactful solutions through innovative technologies.
 
 🎥 My Portfolio
 I’m passionate about sharing knowledge and practical insights. Check out my repositories for:
@@ -14,7 +16,7 @@ Security-focused solutions for web and cloud systems.
 🛠 Technical Skills
 
 Programming Languages:
-Proficient in PHP, C, and C++.
+Proficient in PHP
 Learning focus: Python.
 Frameworks and Libraries:
 
@@ -23,8 +25,6 @@ Database Management:
 
 Hands-on experience with PostgreSQL, MySQL.
 
-Cloud Computing:
-Skilled in AWS services ( S3, Amplify, EC2) and implementing secure, scalable systems.
 
 API Development:
 Extensive experience with RESTful APIs and integrations.
