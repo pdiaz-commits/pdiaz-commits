@@ -8,9 +8,11 @@ Recently, I’ve been focusing on Python, Data Science, Machine Learning, and Ge
 Check out my repositories for:
 
 Python apps using Streamlit, FastAPI,
-Data Science and Machine Learning projects.
-CMS transformation guides for better performance.
+
+CMS,LMS transformation guides for better performance.
 Security-focused web and cloud solutions.
+
+Data Science and Machine Learning projects.
 
 🛠 Skills at a Glance
 Languages: PHP (Proficient), Python (Learning Focus).
