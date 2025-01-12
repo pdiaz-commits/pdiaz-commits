@@ -20,5 +20,5 @@ APIs: RESTful API design and integrations.
 Data Science & AI
 
 📫 Contact Me
-Email: pj040dr@gmail.com
+
 💡 Let’s collaborate and bring innovative ideas to life! 🚀
