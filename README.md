@@ -32,7 +32,15 @@ Actualmente, estoy ampliando mis competencias en Python, Ciencia de Datos, Machi
 
 💬 ¿Te interesa colaborar en proyectos de impacto con tecnologías abiertas?
 Estoy abierto a propuestas, retos y nuevas ideas. ¡Conectemos!
+
+
+
+
+
 🇬🇧 PRESENTATION (ENGLISH)
+
+
+
 👋 Hi! I'm Pablo Díaz
 🚀 About Me
 
