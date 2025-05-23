@@ -1,61 +1,67 @@
-SPANISH
-__________
-👋 Hola, soy Pablo Díaz
-
+🇪🇸 PRESENTACIÓN (ESPAÑOL)
+👋 ¡Hola! Soy Pablo Díaz
 🚀 Sobre mí
-Soy Ingeniero Tecnico en Informatica, Gestión   especializado en transformacion digital utilizando herramientas de código abierto como PHP, WordPress y Moodle.
-Recientemente, me estoy enfocando en Python, Ciencia de Datos, Machine Learning e Inteligencia Artificial Generativa para construir soluciones innovadoras y con impacto.
 
-🎥 Proyectos destacados
-Consulta mis repositorios para ver:
+Soy Ingeniero Técnico en Informática de Gestión, con amplia experiencia en desarrollo web, transformación digital y entornos de código abierto como PHP, WordPress y Moodle.
+Actualmente, estoy ampliando mis competencias en Python, Ciencia de Datos, Machine Learning e IA Generativa, con el objetivo de crear soluciones innovadoras, eficientes y con impacto real.
+🎯 Proyectos destacados
 
-    Aplicaciones en Python usando Streamlit y FastAPI
+📌 En mis repositorios encontrarás:
 
-    Guías de transformación de CMS y LMS para mejorar el rendimiento
+    Aplicaciones interactivas en Python con Streamlit y FastAPI
 
-    Soluciones web y en la nube con enfoque en seguridad
+    Guías para la transformación de sistemas CMS y LMS con enfoque en rendimiento y escalabilidad
 
-    Proyectos de Ciencia de Datos y Aprendizaje Automático
+    Soluciones web seguras desplegadas en la nube (DigitalOcean, AWS)
 
-🛠 Resumen de habilidades
+    Proyectos de Ciencia de Datos y Aprendizaje Automático con casos de uso reales
 
-    Lenguajes: PHP (Avanzado), Python (en proceso de especialización)
+🛠 Habilidades principales
 
-    Frameworks: Streamlit
+    Lenguajes: PHP (avanzado), Python (en especialización)
+
+    Frameworks: Streamlit, FastAPI
 
     Bases de datos: PostgreSQL, MySQL
 
     APIs: Diseño e integración de APIs RESTful
 
-    Ciencia de Datos e IA
+    Otras competencias: Testing, DevOps básico, análisis de datos, IA aplicada
 
 📫 Contacto
-💡 ¡Colaboremos y demos vida a ideas innovadoras! 🚀
 
-ENGLISH
-__________
-Hi there, I'm Pablo Díaz 👋
+💬 ¿Te interesa colaborar en proyectos de impacto con tecnologías abiertas?
+Estoy abierto a propuestas, retos y nuevas ideas. ¡Conectemos!
+🇬🇧 PRESENTATION (ENGLISH)
+👋 Hi! I'm Pablo Díaz
 🚀 About Me
-I’m a Software Engineer with years of experience in IT, specializing in web development with open-source tools like PHP,WordPress,Moodle.
-Recently, I’ve been focusing on Python, Data Science, Machine Learning, and Generative AI to build innovative and impactful solutions.
 
-🎥 Portfolio Highlights
-Check out my repositories for:
+I’m a Technical Engineer in Computer Science with solid experience in web development, digital transformation, and open-source ecosystems like PHP, WordPress, and Moodle.
+Currently, I’m focusing on Python, Data Science, Machine Learning, and Generative AI to build smart and impactful solutions.
+🎯 Portfolio Highlights
 
-Python apps using Streamlit, FastAPI,
+In my repositories, you’ll find:
 
-CMS,LMS transformation guides for better performance.
-      Security-focused web and cloud solutions.
+    Interactive Python apps using Streamlit and FastAPI
 
-Data Science and Machine Learning projects.
+    CMS and LMS transformation guides focused on performance and scalability
+
+    Secure and cloud-based web solutions (DigitalOcean, AWS)
+
+    Practical Data Science and ML projects with real use cases
 
 🛠 Skills at a Glance
-      Languages: PHP (Proficient), Python (Learning Focus).
-      Frameworks: Streamlit, 
-      Databases: PostgreSQL, MySQL.
-      APIs: RESTful API design and integrations.
-      Data Science & AI
 
-📫 Contact Me
+    Languages: PHP (Advanced), Python (In progress)
 
-💡 Let’s collaborate and bring innovative ideas to life! 🚀
+    Frameworks: Streamlit, FastAPI
+
+    Databases: PostgreSQL, MySQL
+
+    APIs: RESTful API design and integration
+
+    Other: Basic DevOps, testing, data analysis, applied AI
+
+📫 Let’s Connect
+
+💡 Open to collaborations, freelance projects, or full-time roles focused on meaningful, open-source-driven innovation.
