@@ -1,9 +1,9 @@
-🇪🇸 PRESENTACIÓN (ESPAÑOL) and 🇬🇧 PRESENTATION (ENGLISH)
+🇪🇸 PRESENTACIÓN (ESPAÑOL) 
 👋 ¡Hola! Soy Pablo Díaz
 🚀 Sobre mí
 
 Soy Ingeniero Técnico en Informática de Gestión, con amplia experiencia en desarrollo web, transformación digital y entornos de código abierto como PHP, WordPress y Moodle.
-Actualmente, estoy ampliando mis competencias en Python, Ciencia de Datos, Machine Learning e IA Generativa, con el objetivo de crear soluciones innovadoras, eficientes y con impacto real.
+Actualmente, estoy ampliando mis competencias en Python, Analisis de Datos, IA Generativa, con el objetivo de crear soluciones innovadoras, eficientes y con impacto real.
 🎯 Proyectos destacados
 
 📌 En mis repositorios encontrarás:
