@@ -1,4 +1,4 @@
-🇪🇸 PRESENTACIÓN (ESPAÑOL)
+🇪🇸 PRESENTACIÓN (ESPAÑOL) and 🇬🇧 PRESENTATION (ENGLISH)
 👋 ¡Hola! Soy Pablo Díaz
 🚀 Sobre mí
 
