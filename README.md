@@ -1,39 +1,3 @@
-🇪🇸 PRESENTACIÓN (ESPAÑOL) 
-👋 ¡Hola! Soy Pablo Díaz
-🚀 Sobre mí
-
-Soy Ingeniero Técnico en Informática de Gestión, con amplia experiencia en desarrollo web, transformación digital y entornos de código abierto como PHP, WordPress y Moodle.
-Actualmente, estoy ampliando mis competencias en Python, Analisis de Datos, IA Generativa, con el objetivo de crear soluciones innovadoras, eficientes y con impacto real.
-🎯 Proyectos destacados
-
-📌 En mis repositorios encontrarás:
-
-    Aplicaciones interactivas en Python con Streamlit y FastAPI
-
-    Guías para la transformación de sistemas CMS y LMS con enfoque en rendimiento y escalabilidad
-
-    Soluciones web seguras desplegadas en la nube (DigitalOcean, AWS)
-
-    Proyectos de Ciencia de Datos y Aprendizaje Automático con casos de uso reales
-
-🛠 Habilidades principales
-
-    Lenguajes: PHP (avanzado), Python (en especialización)
-
-    Frameworks: Streamlit, FastAPI
-
-    Bases de datos: PostgreSQL, MySQL
-
-    APIs: Diseño e integración de APIs RESTful
-
-    Otras competencias: Testing, DevOps básico, análisis de datos, IA aplicada
-
-📫 Contacto
-
-💬 ¿Te interesa colaborar en proyectos de impacto con tecnologías abiertas?
-Estoy abierto a propuestas, retos y nuevas ideas. ¡Conectemos!
-
-
 
 
 
@@ -73,3 +37,44 @@ In my repositories, you’ll find:
 📫 Let’s Connect
 
 💡 Open to collaborations, freelance projects, or full-time roles focused on meaningful, open-source-driven innovation.
+
+
+
+
+🇪🇸 PRESENTACIÓN (ESPAÑOL) 
+👋 ¡Hola! Soy Pablo Díaz
+🚀 Sobre mí
+
+Soy Ingeniero Técnico en Informática de Gestión, con amplia experiencia en desarrollo web, transformación digital y entornos de código abierto como PHP, WordPress y Moodle.
+Actualmente, estoy ampliando mis competencias en Python, Analisis de Datos, IA Generativa, con el objetivo de crear soluciones innovadoras, eficientes y con impacto real.
+🎯 Proyectos destacados
+
+📌 En mis repositorios encontrarás:
+
+    Aplicaciones interactivas en Python con Streamlit y FastAPI
+
+    Guías para la transformación de sistemas CMS y LMS con enfoque en rendimiento y escalabilidad
+
+    Soluciones web seguras desplegadas en la nube (DigitalOcean, AWS)
+
+    Proyectos de Ciencia de Datos y Aprendizaje Automático con casos de uso reales
+
+🛠 Habilidades principales
+
+    Lenguajes: PHP (avanzado), Python (en especialización)
+
+    Frameworks: Streamlit, FastAPI
+
+    Bases de datos: PostgreSQL, MySQL
+
+    APIs: Diseño e integración de APIs RESTful
+
+    Otras competencias: Testing, DevOps básico, análisis de datos, IA aplicada
+
+📫 Contacto
+
+💬 ¿Te interesa colaborar en proyectos de impacto con tecnologías abiertas?
+Estoy abierto a propuestas, retos y nuevas ideas. ¡Conectemos!
+
+
+
