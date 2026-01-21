@@ -5,12 +5,11 @@
 
 
 
-👋 Hi! I'm Pablo Díaz
-🚀 About Me
+👋 Hi! I'm Pablo Díaz About Me
 
 I’m a Technical Engineer in Computer Science with solid experience in web development, digital transformation, and open-source ecosystems like PHP, WordPress, and Moodle.
 Currently, I’m focusing on Python, Data Science, Machine Learning, and Generative AI to build smart and impactful solutions.
-🎯 Portfolio Highlights
+ Portfolio Highlights
 
 In my repositories, you’ll find:
 
@@ -34,20 +33,19 @@ In my repositories, you’ll find:
 
     Other: Basic DevOps, testing, data analysis, applied AI
 
-📫 Let’s Connect
+ Let’s Connect
 
 💡 Open to collaborations, freelance projects, or full-time roles focused on meaningful, open-source-driven innovation.
 
 
 
 
-🇪🇸 PRESENTACIÓN (ESPAÑOL) 
-👋 ¡Hola! Soy Pablo Díaz
-🚀 Sobre mí
+🇪🇸 PRESENTACIÓN (ESPAÑOL)  👋 ¡Hola! Soy Pablo Díaz Sobre mí
 
 Soy Ingeniero Técnico en Informática de Gestión, con amplia experiencia en desarrollo web, transformación digital y entornos de código abierto como PHP, WordPress y Moodle.
 Actualmente, estoy ampliando mis competencias en Python, Analisis de Datos, IA Generativa, con el objetivo de crear soluciones innovadoras, eficientes y con impacto real.
-🎯 Proyectos destacados
+
+ Proyectos destacados
 
 📌 En mis repositorios encontrarás:
 
