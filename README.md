@@ -1,69 +1,37 @@
+Pablo Díaz
+Technical Engineer in Computer Science | Web Development & Applied AI
+I am a Technical Engineer in Computer Science specializing in digital transformation and open-source ecosystems. With a strong background in PHP, WordPress, and Moodle, I am currently pivoting my career towards Python, Data Science, and Generative AI to build intelligent, scalable solutions.
 
-👋 Hi! I'm Pablo Díaz About Me
+Portfolio Focus
+My repositories showcase a blend of web architecture and modern data-driven applications:
 
-I’m a Technical Engineer in Computer Science with solid experience in web development, digital transformation, and open-source ecosystems like PHP, WordPress, and Moodle.
-Currently, I’m focusing on Python, Data Science, Machine Learning, and Generative AI to build smart and impactful solutions.
- Portfolio Highlights
+Interactive AI Applications: Development of tools using Python, Streamlit, and FastAPI.
 
-In my repositories, you’ll find:
+CMS & LMS Architecture: Advanced optimization and scalability guides for WordPress and Moodle.
 
-    Interactive Python apps using Streamlit and FastAPI
+Cloud Infrastructure: Deployment of secure web environments on DigitalOcean and AWS.
 
-    CMS and LMS transformation guides focused on performance and scalability
+Data Science: Practical Machine Learning projects focused on real-world use cases.
 
-    Secure and cloud-based web solutions (DigitalOcean, AWS)
+Technical Stack
+Languages: PHP (Advanced), Python (Specializing).
 
-    Practical Data Science and ML projects with real use cases
+Frameworks & Libraries: Streamlit, FastAPI, Pandas, Scikit-learn.
 
-    Languages: PHP (Advanced), Python (In progress)
+Databases: PostgreSQL, MySQL.
 
-    Frameworks: Streamlit, FastAPI
+APIs & Integration: RESTful API design and third-party service integration.
 
-    Databases: PostgreSQL, MySQL
+Core Competencies: DevOps (Basic), Data Analysis, Applied AI, Software Testing.
 
-    APIs: RESTful API design and integration
+Contact & Collaboration
+I am open to collaborations, freelance projects, or full-time roles focused on open-source innovation and smart technology integration.
 
-    Other: Basic DevOps, testing, data analysis, applied AI
+Location: Spain (Remote/Hybrid)
 
- Let’s Connect
+Focus: Digital Transformation & AI Implementation
 
-💡 Open to collaborations, freelance projects, or full-time roles focused on meaningful, open-source-driven innovation.
+Versión en Español (Opcional)
+Si prefieres mantener el perfil bilingüe, puedes añadir este bloque debajo de una línea divisoria:
 
-
-
-
-🇪🇸  ¡Hola! Soy Pablo Díaz Sobre mí
-
-Soy Ingeniero Técnico en Informática de Gestión, con amplia experiencia en desarrollo web, transformación digital y entornos de código abierto como PHP, WordPress y Moodle.
-Actualmente, estoy ampliando mis competencias en Python, Analisis de Datos, IA Generativa, con el objetivo de crear soluciones innovadoras, eficientes y con impacto real.
-
- Proyectos destacados
-
-📌 En mis repositorios encontrarás:
-
-    Aplicaciones interactivas en Python con Streamlit y FastAPI
-
-    Guías para la transformación de sistemas CMS y LMS con enfoque en rendimiento y escalabilidad
-
-    Soluciones web seguras desplegadas en la nube (DigitalOcean, AWS)
-
-    Proyectos de Ciencia de Datos y Aprendizaje Automático con casos de uso reales
-
-
-    Lenguajes: PHP (avanzado), Python (en especialización)
-
-    Frameworks: Streamlit, FastAPI
-
-    Bases de datos: PostgreSQL, MySQL
-
-    APIs: Diseño e integración de APIs RESTful
-
-    Otras competencias: Testing, DevOps básico, análisis de datos, IA aplicada
-
-📫 Contacto
-
-💬 ¿Te interesa colaborar en proyectos de impacto con tecnologías abiertas?
-Estoy abierto a propuestas, retos y nuevas ideas. ¡Conectemos!
-
-
-
+Resumen Profesional Ingeniero Técnico en Informática de Gestión con amplia trayectoria en desarrollo web y entornos Open Source. Actualmente especializado en Python e IA Generativa para la creación de soluciones eficientes de alto impacto. Enfocado en la transición de sistemas tradicionales hacia arquitecturas inteligentes y escalables.
